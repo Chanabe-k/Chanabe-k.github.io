@@ -1,6 +1,8 @@
 ## Profile
 - 阿部香央莉 （Kaori Abe）
 - [東北大学乾研究室](https://www.nlp.ecei.tohoku.ac.jp/)所属 博士1年
+- 日本学術振興会特別研究員 ([DC1採択](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20J21694/)) 
+- Research interest: 機械翻訳 (Machine Translation), 対話システム (Dialogue System), 言語類型論 (Linguistic Typology), 低資源言語 (Low-resource Language)
 - e-mail: abe-k(at)ecei.tohoku.ac.jp
 
 ## Publications
@@ -9,6 +11,7 @@
 - <u>Kaori Abe</u>, Yuichiroh Matsubayashi, Naoaki Okazaki and Kentaro Inui. Multi-dialect Neural Machine Translation for 48 Low-resource Japanese Dialects. 自然言語処理, Volume 27, Number 4, pp.781-800, December 2020.
 
 ### Domestic Conferences
+- <u>阿部香央莉</u>, 松田耕史, 吉川将司, 乾健太郎. オンラインコミュニティにおける単語頻度の通時的変化を利用した新語リストの獲得. 言語処理学会 第27回年次大会, March 2021（**発表予定**）.
 - 松本悠太, 藤井諒, <u>阿部香央莉</u>, 舟山弘晃, 三田雅人. 漢字の意味構造を考慮した複数のニューラル漢字創作システムの比較検討. 第15回NLP若手の会 シンポジウム (YANS), September 2020.
 - 藤井諒, 三田雅人, <u>阿部香央莉</u>, 塙一晃, 森下睦, 鈴木潤, 乾健太郎. ユーザ生成コンテンツの高品質な自動翻訳に向けた言語現象の体系的分析. 2020年度人工知能学会全国大会(第34回), 4 pages, June 2020.
 - 加藤拓真, <u>阿部香央莉</u>, 大内啓樹, 乾健太郎. ラベルの構成性を考慮した系列ラベリング. 言語処理学会第26回年次大会, pp.1479-1482, March 2020.
